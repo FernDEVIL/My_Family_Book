@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+#Family_img{
+    width: 300px;
+    height: 300px;
+}
+#book{
+    border: solid; 
+    width: 350px;
+    margin-left: 550px;
+    padding-bottom: 20px;
+}
